@@ -3,4 +3,4 @@ Implement a method #substrings that takes a word as the first argument and then 
   > dictionary = ["below","down","go","going","horn","how","howdy","it","i","low","own","part","partner","sit"]
   => ["below","down","go","going","horn","how","howdy","it","i","low","own","part","partner","sit"]
   > substrings("below", dictionary)
-  => { "below" => 1, "low" => 1 }
+  => { "below" => 1, "low" => 1 }   # https://www.theodinproject.com/lessons/ruby-sub-strings
